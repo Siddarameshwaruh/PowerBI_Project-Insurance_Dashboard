@@ -16,3 +16,4 @@ The objective of this pilot project is to conduct a thorough examination of cust
 ## Data Model 
 
 ![2023-06-13T17_42_40](https://github.com/Siddarameshwaruh/PowerBI_Project-Insurance_Dashboard/assets/127327782/f405e1a9-817d-43b0-8dc3-4edb9dcf9760)
+
