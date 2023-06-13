@@ -1,6 +1,6 @@
 # PowerBI_Project_Shield_Insurance
 
-<img src="https://github.com/Siddarameshwaruh/PowerBI_Project-Insurance_Dashboard/assets/127327782/c3f20d60-82ae-40d7-be05-a2a4c94555bf" alt="shield_insurance_logo" width="100" height="100">
+<img src="https://github.com/Siddarameshwaruh/PowerBI_Project-Insurance_Dashboard/assets/127327782/c3f20d60-82ae-40d7-be05-a2a4c94555bf" alt="shield_insurance_logo" width="150" height="150">
 
 Shield Insurance Company is a leading provider of comprehensive coverage and reliable policies, prioritizing customer satisfaction and offering tailored solutions through advanced data analytics
 
